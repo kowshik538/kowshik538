@@ -32,7 +32,7 @@
 - Email: [chagantikrishnakowshik@gmail.com](mailto:chagantikrishnakowshik@gmail.com)
 
 ### ⚡ Fun Fact
-- I’ve solved **300+ coding problems** just for fun (yes, I enjoy debugging too 😅) and represented my district in **Kabaddi** & multiple **Cricket tournaments**.
+- I’ve solved **500+ coding problems** just for fun (yes, I enjoy debugging too 😅) and represented my district in **Kabaddi** & multiple **Cricket tournaments**.
 
 ---
 
