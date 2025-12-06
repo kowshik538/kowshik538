@@ -88,15 +88,9 @@
 
 # 📊 GitHub Stats (Updated Username: **Arif-Azeem786**)
 
-### ⭐ Overall Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kowshik538&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ### 🔥 Streaks
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=kowshik538&theme=dark&hide_border=false)
 
-
-### 🏆 Top Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kowshik538&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
