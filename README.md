@@ -1,10 +1,13 @@
 <h1 align="center">👋 Hi, I'm Krishna Kowshik Chaganti</h1>
 <h3 align="center">💻 Final-Year CSE Student | 🚀 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast | ⚡ Problem-Solver & Entrepreneur</h3>
 
+<p>- Passionate about creating real-world AI-driven applications while mastering AIML and Cloud technologies.</p>
+
 ---
 
 ### 🔭 Current Projects
-- **Full-Stack ML Hand Gesture Recognition System**: Developing an innovative solution to enhance user interaction through gesture recognition.
+- **Intrution Detection System**: security tool that monitors network or system activity to detect and alert on suspicious or malicious behavior.
+- **LLM - Council**: LLM Council is a collaborative approach where multiple large language models “debate” or cross‑verify answers to improve accuracy, reduce bias, and reach a consensus.
 
 ### 🌱 Learning Journey
 - **Artificial Intelligence & Machine Learning (AIML)**: Diving deep into algorithms and models.
@@ -13,14 +16,14 @@
 
 ### 👯 Collaboration Opportunities
 - Seeking partnerships on **real-world projects** in:
-  - AI
+  - AIML
   - Web Development
   - Sustainable Tech Solutions
 
 ### 🤝 Areas of Assistance
 - Optimizing ML models
-- Improving gesture recognition accuracy
-- Building scalable full-stack applications with Django + React
+- Backend optimization & scaling  
+- LLM-based apps like RAG
 
 ### 💬 Topics of Interest
 - Web Development
@@ -28,51 +31,77 @@
 - Freelancing Projects
 - Startup Experience
 
+### 🔍 Currently Learning
+- Cloud  
+- Docker & CI/CD  
+- GitHub Actions  
+- ML model deployment 
+
 ### 📫 Get in Touch
 - Email: [chagantikrishnakowshik@gmail.com](mailto:chagantikrishnakowshik@gmail.com)
 
 ### ⚡ Fun Fact
-- I’ve solved **500+ coding problems** just for fun (yes, I enjoy debugging too 😅) and represented my district in **Kabaddi** & multiple **Cricket tournaments**.
+- I’ve solved **500+ coding problems** just for fun (yes, I enjoy debugging too 😅).
 
 ---
 
-<h3 align="left">🚀 Achievements & Highlights:</h3>
-- 🏆 **300+ Coding Problems Solved**: Across LeetCode, CodeChef & InterviewBit  
-- 🏢 **Freelance Web Developer** (03/2024 – 07/2024): Built responsive web apps, improving performance by **20%**  
-- 🌞 **Founded a Solar-Panel Startup**: Exceeded revenue projections by **15%**  
-- 🎯 **Hackathons & Coding Contests**: Actively participated to sharpen problem-solving & collaboration skills  
-- ⚡ **Sports Enthusiast**: Balanced academics with sports, representing in **District Kabaddi Probables** & winning multiple **Mandal-level Cricket tournaments**  
+<h3 align="left">🚀 Achievements & Highlights:</h3>  
+🏆 500+ Coding Problems Solved: Across LeetCode, CodeChef & InterviewBit  
+- 🏢 Freelance Web Developer (03/2024 – 07/2024): Built responsive web apps, improving performance by 20%  
+- 🌞 Founded a Solar-Panel Startup: Exceeded revenue projections by 15%  
+- 🎯 Hackathons & Coding Contests: Actively participated to sharpen problem-solving & collaboration skills  
+- ⚡ Sports Enthusiast: Balanced academics with sports, representing in District Kabaddi Probables & winning multiple Mandal-level Cricket tournaments  
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/krishna-kowshik-c" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishna Kowshik LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/kowshik538" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kowshik538 GitHub" height="30" width="40" />
-  </a>
-</p>
+#🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kowshik-c)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:224g1a0538@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/kowshik538)
+---
+
+# 💻 Tech Stack
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react)
+
+### **Backend**
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python)
+
+### **AI / ML**
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-</p>
+# 📊 GitHub Stats (Updated Username: **Arif-Azeem786**)
+
+### ⭐ Overall Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=kowshik538&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+### 🔥 Streaks
+![Streak](https://nirzak-streak-stats.vercel.app/?user=kowshik538&theme=dark&hide_border=false)
+
+
+### 🏆 Top Repos
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=kowshik538&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
