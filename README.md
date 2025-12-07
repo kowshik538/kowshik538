@@ -54,7 +54,7 @@
 
 ---
 
-#🌐 Connect with Me
+# 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kowshik-c)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:224g1a0538@gmail.com)  
@@ -86,16 +86,15 @@
 
 ---
 
-# 📊 GitHub Stats (Updated Username: **Arif-Azeem786**)
-
-### 🔥 Streaks
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kowshik538&theme=dark&hide_border=false)
-
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+### My Status
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
