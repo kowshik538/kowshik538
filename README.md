@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Krishna Kowshik Chaganti</h1>
-<h3 align="center">💻 Final-Year CSE Student | 🚀 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast | ⚡ Problem-Solver & Entrepreneur</h3>
+<h3 align="center">💻 Final-Year CSE Student | 🚀 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast | Certified in SAP ABAP and ServiceNow(CSA & CAD) | ⚡ Problem-Solver & Entrepreneur</h3>
 
 <p>- Passionate about creating real-world AI-driven applications while mastering AIML and Cloud technologies.</p>
 
