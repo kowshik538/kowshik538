@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Krishna Kowshik Chaganti</h1>
-<h3 align="center">💻 Final-Year CSE Student | 🚀 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast | Certified in SAP ABAP and ServiceNow(CSA & CAD) | ⚡ Problem-Solver & Entrepreneur</h3>
+<h3 align="center">💻 Final-Year CSE Student | ☁️ Aspiring DevOps Engineer | 🚀 AWS & Cloud Enthusiast | Certified in SAP ABAP and ServiceNow (CSA & CAD)</h3>
 
-<p>- Passionate about creating real-world AI-driven applications while mastering AIML and Cloud technologies.</p>
+<p>- Passionate about building scalable cloud infrastructure and automating deployments using DevOps practices.</p>
 
 ---
 
@@ -12,13 +12,16 @@
 ### 🌱 Learning Journey
 - **Artificial Intelligence & Machine Learning (AIML)**: Diving deep into algorithms and models.
 - **Data Structures & Algorithms (DSA)**: Strengthening my problem-solving skills.
-- **Django**: Building scalable web applications with a focus on performance.
+- **AWS Cloud**: Hands-on with EC2, S3, IAM, VPC, Lambda, and CloudFormation.
+- **DevOps Tools**: Learning Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines.
+- **System Design**: Building scalable and fault-tolerant architectures.
 
 ### 👯 Collaboration Opportunities
 - Seeking partnerships on **real-world projects** in:
-  - AIML
-  - Web Development
-  - Sustainable Tech Solutions
+  - AWS Cloud Infrastructure  
+  - DevOps Automation  
+  - CI/CD Pipeline Development  
+  - Cloud-Native Applications  
 
 ### 🤝 Areas of Assistance
 - Optimizing ML models
@@ -26,16 +29,16 @@
 - LLM-based apps like RAG
 
 ### 💬 Topics of Interest
-- Web Development
-- Basics of Machine Learning
-- Freelancing Projects
-- Startup Experience
+- DevOps & Cloud Engineering  
+- AWS Architecture  
+- Automation & Scaling  
+- Startup & Freelancing  
 
 ### 🔍 Currently Learning
-- Cloud  
-- Docker & CI/CD  
-- GitHub Actions  
-- ML model deployment 
+- Advanced AWS Services  
+- Kubernetes & Container Orchestration  
+- CI/CD Pipelines  
+- Monitoring & Logging (Prometheus, AWS CloudWatch)
 
 ### 📫 Get in Touch
 - Email: [chagantikrishnakowshik@gmail.com](mailto:chagantikrishnakowshik@gmail.com)
@@ -62,6 +65,13 @@
 ---
 
 # 💻 Tech Stack
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)  
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)  
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)  
